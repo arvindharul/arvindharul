@@ -2,11 +2,9 @@
 <h3 align="center">Passionate data scientist delivering scalable AI solutions.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-- 🔭 I’m currently working on **Product Analytics, Optimization, Forecasting, and Simulation projects within the retail industry.**
+- 🔭 I’m currently working on **Product Analytics, Optimization, Forecasting, and Simulation projects.**
 
-- 🌱 I’m currently learning **Deep Learning Frameworks and Causal Inference**
-
-- 👯 I’m looking to collaborate on **NLP and Computer Vision Projects**
+- 🌱 I’m currently learning **Causal Inference**
 
 - 📝 I regularly write articles on [arvindharul.com](arvindharul.com)
 
